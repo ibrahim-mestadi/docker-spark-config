@@ -1,0 +1,8 @@
+# Ignore data inside book_data directory
+book_data/*
+
+# Keep only sample.txt
+!book_data/sample.txt
+
+
+
